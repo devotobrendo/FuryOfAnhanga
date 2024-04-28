@@ -1,0 +1,49 @@
+# Unity generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb.meta
+*.opendb
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Folders for IDE-specific settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Unity crash logs
+crashlytics/
+
+# Unity auto-generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio specific files
+*.csproj
+*.suo
+*.sln
+
+# Rider specific files
+.idea/
+
+# Ignore built executable files
+*.exe
+*.apk
+*.ipa
